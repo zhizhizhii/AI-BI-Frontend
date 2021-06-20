@@ -6,7 +6,7 @@ import store from './store'
 
 //加载Element组件库
 import ElementUI from 'element-ui';
-import 'element-ui/lib/theme-chalk/index.css';
+// import 'element-ui/lib/theme-chalk/index.css';
 
 import './styles/index.less'
 import echarts from 'echarts'
